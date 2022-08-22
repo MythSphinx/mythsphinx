@@ -8,7 +8,7 @@
 <p>✔️ Learn the first language.</p>
 <p>✔️ Learn another language of the opposite end.</p>
 <p>✔️ Practice with the first framework.</p>
-<p>⌛ (3/8) 8 projects done.</p>
+<p>⌛ (3/6) 6 projects done.</p>
 <p>⌛ Get first job!</p>
 
 
@@ -29,8 +29,8 @@
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### <p> Database</p>
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### <p> IDE and others</p>
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -43,8 +43,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythsphinx&layout=compact&theme=algolia&show_icons=true)](https://github.com/mythsphinx/github-readme-stats)
 
 ### <p>Contact</p>
-![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Discord-Myth2743-5865F2?style=for-the-badge&logo=discord&color=5865F2&colorA=black)
+<a href="https://www.linkedin.com/in/alex-jr-lira-3a9b53214/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-jr-lira-3a9b53214/" /></a>
 
 <!--
 **MythSphinx/mythsphinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
