@@ -8,7 +8,7 @@
 <p>✔️ Learn the first language.</p>
 <p>✔️ Learn another language of the opposite end.</p>
 <p>✔️ Practice with the first framework.</p>
-<p>⌛ (3/6) 6 projects done.</p>
+<p>⌛ (4/6) 6 projects done.</p>
 <p>⌛ Get first job!</p>
 
 
@@ -22,6 +22,7 @@
 ### <p> Frameworks</p>
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
@@ -46,8 +47,6 @@
 <!--
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
