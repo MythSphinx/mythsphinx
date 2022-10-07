@@ -8,7 +8,7 @@
 <p>✔️ Learn the first language.</p>
 <p>✔️ Learn another language of the opposite end.</p>
 <p>✔️ Practice with the first framework.</p>
-<p>⌛ (4/6) 6 projects done.</p>
+<p>⌛ (4/5) 5 projects done.</p>
 <p>⌛ Get first job!</p>
 
 
